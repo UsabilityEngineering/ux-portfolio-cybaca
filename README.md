@@ -11,4 +11,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Read about my experience with Google Docs](j01/)
